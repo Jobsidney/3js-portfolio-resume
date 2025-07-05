@@ -3,6 +3,7 @@ import { useForm } from "react-hook-form";
 import * as Z from "zod";
 import emailjs from "@emailjs/browser";
 import { useState } from "react";
+import { time } from "three/tsl";
 
 const contactFormSchema = Z.object({
   name: Z.string().nonempty("Name is required"),
@@ -39,6 +40,7 @@ const ContactForm = () => {
         message: data.message,
         reply_to: data.email,
         subject: data.subject,
+        time:new Date().toLocaleDateString(),
       };
 
       const serviceID = import.meta.env.VITE_EMAIL_SERVICE_ID;

@@ -4,6 +4,7 @@ Command: npx gltfjsx@6.5.3 boy.glb -T
 Files: boy.glb [1.08MB] > /Users/hsuwinlatt/Desktop/Work/Fullstack Empire/Youtube/threed-dev-portfolio/public/models/boy-transformed.glb [495.53KB] (54%)
 */
 
+
 import { useGraph } from "@react-three/fiber";
 import { useGLTF, useProgress } from "@react-three/drei";
 import { SkeletonUtils } from "three-stdlib";
