@@ -130,14 +130,14 @@ const testimonials = [
     name: "John Miller",
     pos: "Founder of ModernEdge Solutions",
     review:
-      "David Jhon turned our vision into a stunning, functional platform that our customers love. Their creativity and technical expertise truly set them apart.",
+      "Job Sidney turned our vision into a stunning, functional platform that our customers love. Their creativity and technical expertise truly set them apart.",
     imgPath: "/images/client1.png",
   },
   {
     name: "Emily Carter",
     pos: "UX Designer at PixelWorks Studio",
     review:
-      "David Jhon consistently brings fresh ideas and innovative solutions. Their passion for creativity and attention to detail elevate every project.",
+      "Job Sidney consistently brings fresh ideas and innovative solutions. Their passion for creativity and attention to detail elevate every project.",
     imgPath: "/images/client2.png",
   },
   {
