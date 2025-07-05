@@ -33,11 +33,11 @@ const About = () => {
                 </div>
                 <div className="mt-5">
                   <h1 className="text-blue-50 md:text-5xl text-3xl">
-                    David JhonSan
+                  Job Sidney
                   </h1>
                   <p className="md:text-2xl mt-2">
-                    I am a San francisco-based product designer with a focus on
-                    web design, illustration, a visual development. I have a
+                    I am a Kenyan based software engineer with a focus on
+                    Backend Development, Frontend Development, Mobile Development, UI/UX design and Currently Specializing in AI/ML models. I have a
                     diverse range of experience having worked across various
                     fields and industries.
                   </p>
