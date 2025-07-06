@@ -85,6 +85,10 @@ const iconsList = [
     name: "aws",
     image: "/images/aws.svg",
   },
+  {
+    name: "gmail",
+    image: "https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg",
+  },
 ];
 
 const slides = [
@@ -142,7 +146,7 @@ const slides = [
     id: 8,
     title: "Phanox E-commerce Platform",
     url: "https://phanox.vercel.app/",
-    img: "/images/projects/ecom.jpg",
+    img: "/images/projects/phanox.png",
   },
   {
     id: 10,
@@ -217,24 +221,25 @@ const testimonials = [
 ];
 
 const footerIconsList = [
+  
   {
-    name: "Facebook",
-    href: "https://www.facebook.com/",
-    icon: "/images/b-fb.svg",
+    name: "github",
+    href: "https://github.com/Jobsidney",
+    icon: "/images/github.svg",
   },
   {
-    name: "Instagram",
-    href: "https://www.facebook.com/",
-    icon: "/images/b-insta.svg",
-  },
-  {
-    name: "LinkedIn",
-    href: "https://www.facebook.com/",
+    name: "linkedIn",
+    href: "https://www.linkedin.com/in/job-sidney-65a435203/",
     icon: "/images/b-linked.svg",
   },
   {
+    name: "gmail",
+    href:"mailto:jobsidney67@gmail.com",
+    icon: "https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg",
+  },
+  {
     name: "WhatsApp",
-    href: "https://www.facebook.com/",
+    href: "https://wa.me/254745929089",
     icon: "/images/b-whatsapp.svg",
   },
 ];
