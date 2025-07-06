@@ -91,38 +91,95 @@ const slides = [
   {
     id: 1,
     title: "Sofi",
+    url:"",
     img: "/images/p1.png",
   },
   {
     id: 2,
     title: "Jasmina",
+    url:"",
     img: "/images/p2.png",
   },
   {
     id: 3,
     title: "d.tampe",
+    url:"",
     img: "/images/p3.png",
   },
   {
     id: 4,
     title: "Blimp.gr",
+    url:"",
     img: "/images/p4.png",
   },
   {
     id: 5,
     title: "Hawk Style Design",
+    url:"",
     img: "/images/p5.png",
   },
   {
     id: 6,
     title: "Lewis",
+    url:"",
     img: "/images/p6.png",
   },
   {
     id: 7,
     title: "Sofi",
+    url:"",
     img: "/images/p1.png",
   },
+  {
+    id: 8,
+    title: "Mini E-commerce Platform",
+    url: "https://phanox.vercel.app/",
+    img: "/images/projects/ecom.jpg",
+  },
+
+  {
+    id: 9,
+    title: "Analytics Dashboard",
+    url: "https://reimagined-invention-shoppy-kakwiristephen.vercel.app/",
+    img: "/images/projects/analysis.jpg",
+  },
+  {
+    id: 10,
+    title: "Camping Companion",
+    url: "https://camp-safari.vercel.app/",
+    img: "/images/projects/saf.jpg",
+  },
+  {
+    id: 11,
+    title: "Product Catalogue / E-commerce",
+    url: "https://virtu-mart.vercel.app/",
+    img: "/images/projects/cart.jpg",
+  },
+  {
+    id: 12,
+    title: "Tour Companion (Natours)",
+    url: "https://natours-g12a.onrender.com/",
+    img: "/images/projects/nat.jpg",
+  },
+  {
+    id: 14,
+    title: "Jupiter Energy & M-hub",
+    url: "https://jupiterkenya.com/",
+    img: "/images/projects/jupiter.png",
+  },
+  {
+    id: 15,
+    title: "Mam-Laka Africa",
+    url: "https://mam-laka.com/",
+    img: "/images/projects/mam-laka.png",
+  },
+  {
+    id: 16,
+    title: "Vuejs Kenya",
+    url: "https://vuejs-kenya.vercel.app/",
+    img: "/images/projects/vercel.png",
+  },
+
 ];
 
 const testimonials = [
