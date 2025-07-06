@@ -3,4 +3,4 @@ User-agent: *
 Allow: /
 
 # Sitemap location
-Sitemap: https://jobsidney.pro/sitemap.xml
+Sitemap: https://jobsidney67.vercel.app/sitemap.xml
