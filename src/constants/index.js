@@ -91,52 +91,27 @@ const slides = [
   {
     id: 1,
     title: "Sofi",
-    url:"",
+    url:"https://sofi.health/",
     img: "/images/p1.png",
   },
   {
     id: 2,
     title: "Jasmina",
-    url:"",
+    url:"https://jasminadenner.com/",
     img: "/images/p2.png",
   },
   {
-    id: 3,
-    title: "d.tampe",
-    url:"",
-    img: "/images/p3.png",
+    id: 17,
+    title: "Ngamia Games",
+    url: "https://ngamiagameslanding.vercel.app/",
+    img: "/images/projects/ngameagames.png",
   },
   {
-    id: 4,
-    title: "Blimp.gr",
-    url:"",
-    img: "/images/p4.png",
+    id: 14,
+    title: "Jupiter Energy & M-hub",
+    url: "https://jupiterkenya.com/",
+    img: "/images/projects/jupiter.png",
   },
-  {
-    id: 5,
-    title: "Hawk Style Design",
-    url:"",
-    img: "/images/p5.png",
-  },
-  {
-    id: 6,
-    title: "Lewis",
-    url:"",
-    img: "/images/p6.png",
-  },
-  {
-    id: 7,
-    title: "Sofi",
-    url:"",
-    img: "/images/p1.png",
-  },
-  {
-    id: 8,
-    title: "Mini E-commerce Platform",
-    url: "https://phanox.vercel.app/",
-    img: "/images/projects/ecom.jpg",
-  },
-
   {
     id: 9,
     title: "Analytics Dashboard",
@@ -149,9 +124,35 @@ const slides = [
     url: "https://camp-safari.vercel.app/",
     img: "/images/projects/saf.jpg",
   },
+
+  {
+    id: 5,
+    title: "Hawk Style Design",
+    url:"https://hawk-style.com/en/",
+    img: "/images/p5.png",
+  },
+ 
+  {
+    id: 7,
+    title: "Sofi",
+    url:"https://sofi.health/",
+    img: "/images/p1.png",
+  },
+  {
+    id: 8,
+    title: "Phanox E-commerce Platform",
+    url: "https://phanox.vercel.app/",
+    img: "/images/projects/ecom.jpg",
+  },
+  {
+    id: 10,
+    title: "Camping Companion",
+    url: "https://camp-safari.vercel.app/",
+    img: "/images/projects/saf.jpg",
+  },
   {
     id: 11,
-    title: "Product Catalogue / E-commerce",
+    title: "Shop Cart",
     url: "https://virtu-mart.vercel.app/",
     img: "/images/projects/cart.jpg",
   },
@@ -161,12 +162,7 @@ const slides = [
     url: "https://natours-g12a.onrender.com/",
     img: "/images/projects/nat.jpg",
   },
-  {
-    id: 14,
-    title: "Jupiter Energy & M-hub",
-    url: "https://jupiterkenya.com/",
-    img: "/images/projects/jupiter.png",
-  },
+  
   {
     id: 15,
     title: "Mam-Laka Africa",
@@ -179,6 +175,13 @@ const slides = [
     url: "https://vuejs-kenya.vercel.app/",
     img: "/images/projects/vercel.png",
   },
+  {
+    id: 18,
+    title: "OmniFoood",
+    url:"https://omnifood.dev/",
+    img: "/images/projects/omnifood.jpg",
+  },
+ 
 
 ];
 

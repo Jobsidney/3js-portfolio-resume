@@ -53,13 +53,16 @@ const Carousel = () => {
                         {slide.title}
                       </p>
                     </div>
-                    <div className="flex-center gap-5">
+                    <div 
+                      className="flex-center gap-5 cursor-pointer hover:opacity-60 transition-opacity"
+                      onClick={() => window.open(slide.url, '_blank', 'noopener,noreferrer')}
+                    >
                       <p className="text-2xl hidden md:block text-white-50 opacity-80">
                         Preview Project
                       </p>
                       <img
                         src="/images/arrowupright.svg"
-                        alt="arrow"
+                        alt="View project"
                         className="md:size-10 size-7"
                       />
                     </div>
