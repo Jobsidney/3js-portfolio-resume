@@ -46,6 +46,56 @@ const bentoSocialLinks = [
 
 const iconsList = [
   {
+    name: "Docker",
+    image: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg",
+  },
+  {
+    name: "python",
+    image: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg",
+  },
+  {
+    name: "nodejs",
+    image: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg",
+  },
+  {
+    name: "typescript",
+    image: "/images/ts.svg",
+  },
+  {
+    name: "Go",
+    image: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg",
+  },
+  {
+    name:"C#",
+    image:"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
+    },
+  
+  {
+    name: "figma",
+    image: "/images/figma.svg",
+  },
+  {
+    name: "nextjs",
+    image: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg",
+  },
+  {
+    name: "angular",
+    image: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg",
+  },
+  {
+    name: "vuejs",
+    image: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg",
+  },
+
+  {
+    name: "react",
+    image: "/images/react.svg",
+  },
+  {
+    name: "threejs",
+    image: "/images/threejs.svg",
+  },
+  {
     name: "html",
     image: "/images/html.svg",
   },
@@ -58,37 +108,17 @@ const iconsList = [
     image: "/images/js.svg",
   },
   {
-    name: "react",
-    image: "/images/react.svg",
-  },
-  {
-    name: "typescript",
-    image: "/images/ts.svg",
-  },
-  {
-    name: "github",
-    image: "/images/github.svg",
-  },
-  {
-    name: "gsap",
-    image: "/images/gsap.svg",
-  },
-  {
-    name: "threejs",
-    image: "/images/threejs.svg",
-  },
-  {
-    name: "figma",
-    image: "/images/figma.svg",
-  },
+    name: "flutter",
+    image: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg",
+  },{
+    name: "react-native",
+    image: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg",
+  }, 
   {
     name: "aws",
     image: "/images/aws.svg",
   },
-  {
-    name: "gmail",
-    image: "https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg",
-  },
+ 
 ];
 
 const slides = [
