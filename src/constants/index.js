@@ -93,10 +93,10 @@ const iconsList = [
 
 const slides = [
   {
-    id: 1,
-    title: "Sofi",
-    url:"https://sofi.health/",
-    img: "/images/p1.png",
+    id: 14,
+    title: "Jupiter Energy & M-hub",
+    url: "https://jupiterkenya.com/",
+    img: "/images/projects/jupiter.png",
   },
   {
     id: 2,
@@ -105,16 +105,46 @@ const slides = [
     img: "/images/p2.png",
   },
   {
+    id: 8,
+    title: "Phanox E-commerce Platform",
+    url: "https://phanox.vercel.app/",
+    img: "/images/projects/phanox.png",
+  },
+  {
+    id: 11,
+    title: "Shop Cart",
+    url: "https://virtu-mart.vercel.app/",
+    img: "/images/projects/cart.jpg",
+  },
+  {
+    id: 12,
+    title: "Tour Companion (Natours)",
+    url: "https://natours-g12a.onrender.com/",
+    img: "/images/projects/nat.jpg",
+  }, 
+  {
+    id: 15,
+    title: "Mam-Laka Africa",
+    url: "https://mam-laka.com/",
+    img: "/images/projects/mam-laka.png",
+  },
+  {
+    id: 16,
+    title: "Vuejs Kenya",
+    url: "https://vuejs-kenya.vercel.app/",
+    img: "/images/projects/vercel.png",
+  },
+  {
+    id: 18,
+    title: "OmniFoood",
+    url:"https://omnifood.dev/",
+    img: "/images/projects/omnifood.jpg",
+  },
+  {
     id: 17,
     title: "Ngamia Games",
     url: "https://ngamiagameslanding.vercel.app/",
     img: "/images/projects/ngameagames.png",
-  },
-  {
-    id: 14,
-    title: "Jupiter Energy & M-hub",
-    url: "https://jupiterkenya.com/",
-    img: "/images/projects/jupiter.png",
   },
   {
     id: 9,
@@ -142,51 +172,7 @@ const slides = [
     url:"https://sofi.health/",
     img: "/images/p1.png",
   },
-  {
-    id: 8,
-    title: "Phanox E-commerce Platform",
-    url: "https://phanox.vercel.app/",
-    img: "/images/projects/phanox.png",
-  },
-  {
-    id: 10,
-    title: "Camping Companion",
-    url: "https://camp-safari.vercel.app/",
-    img: "/images/projects/saf.jpg",
-  },
-  {
-    id: 11,
-    title: "Shop Cart",
-    url: "https://virtu-mart.vercel.app/",
-    img: "/images/projects/cart.jpg",
-  },
-  {
-    id: 12,
-    title: "Tour Companion (Natours)",
-    url: "https://natours-g12a.onrender.com/",
-    img: "/images/projects/nat.jpg",
-  },
   
-  {
-    id: 15,
-    title: "Mam-Laka Africa",
-    url: "https://mam-laka.com/",
-    img: "/images/projects/mam-laka.png",
-  },
-  {
-    id: 16,
-    title: "Vuejs Kenya",
-    url: "https://vuejs-kenya.vercel.app/",
-    img: "/images/projects/vercel.png",
-  },
-  {
-    id: 18,
-    title: "OmniFoood",
-    url:"https://omnifood.dev/",
-    img: "/images/projects/omnifood.jpg",
-  },
- 
-
 ];
 
 const testimonials = [
