@@ -7,13 +7,13 @@ const Loader = () => {
 
   // Remove loader when progress reaches 100%
   useEffect(() => {
-    if (total === 20 && progress === 100) {
+    // Remove the strict total check and use >= for progress
+    if (progress >= 100) {
       const loader = document.querySelector('.loader-screen');
       if (loader) {
         loader.style.transition = 'transform 1.5s ease-in-out';
         loader.style.transform = 'translateY(-100%)';
         
-        // Remove after transition completes
         setTimeout(() => {
           loader.remove();
         }, 1500);
