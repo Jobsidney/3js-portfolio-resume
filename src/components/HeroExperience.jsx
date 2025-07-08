@@ -14,7 +14,7 @@ const HeroExperience = () => {
       <group>
         <Boy scale={9} position={[0, -15, 0]} />
       </group>
-      <Sparkles count={100} size={4} speed={0.5} scale={[10,10,2]} />
+      <Sparkles count={100} size={2} speed={0.5} scale={[10,10,2]} />
     </Canvas>
   );
 };
