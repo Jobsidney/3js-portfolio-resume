@@ -15,15 +15,17 @@ const App = () => {
   return (
     <div className="bg-black-100">
       <Loader />
-      <NavBar />
-      <Sidebar />
-      <Hero />
-      <About />
-      <TechStack />
-      <Projects />
-      <Testimonials />
-      <Contact />
-      <Footer />
+      <div className="content-wrapper h-full overflow-y-auto">
+        <NavBar />
+        <Sidebar />
+        <Hero />
+        <About />
+        <TechStack />
+        <Projects />
+        <Testimonials />
+        <Contact />
+        <Footer />
+      </div>
     </div>
   );
 };
