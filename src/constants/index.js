@@ -141,18 +141,6 @@ const slides = [
     img: "/images/projects/phanox.png",
   },
   {
-    id: 11,
-    title: "Shop Cart",
-    url: "https://virtu-mart.vercel.app/",
-    img: "/images/projects/cart.jpg",
-  },
-  {
-    id: 12,
-    title: "Tour Companion (Natours)",
-    url: "https://natours-g12a.onrender.com/",
-    img: "/images/projects/nat.jpg",
-  }, 
-  {
     id: 15,
     title: "Mam-Laka Africa",
     url: "https://mam-laka.com/",
@@ -164,6 +152,19 @@ const slides = [
     url: "https://vuejs-kenya.vercel.app/",
     img: "/images/projects/vercel.png",
   },
+  {
+    id: 11,
+    title: "Shop Cart",
+    url: "https://virtu-mart.vercel.app/",
+    img: "/images/projects/cart.jpg",
+  },
+  {
+    id: 12,
+    title: "Tour Companion (Natours)",
+    url: "https://natours-g12a.onrender.com/",
+    img: "/images/projects/nat.jpg",
+  }, 
+  
   {
     id: 18,
     title: "OmniFoood",
