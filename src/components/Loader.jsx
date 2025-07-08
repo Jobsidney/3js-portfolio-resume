@@ -1,22 +1,28 @@
 import { useGSAP } from "@gsap/react";
 import { useProgress } from "@react-three/drei";
-import gsap from "gsap";
+import { useEffect } from "react";
 
 const Loader = () => {
   const { progress, total } = useProgress();
 
-  useGSAP(() => {
+  // Remove loader when progress reaches 100%
+  useEffect(() => {
     if (total === 20 && progress === 100) {
-      gsap.to(".loader-screen", {
-        y: "-100%",
-        duration: 1,
-        ease: "power2.inOut",
-      });
+      const loader = document.querySelector('.loader-screen');
+      if (loader) {
+        loader.style.transition = 'transform 1.5s ease-in-out';
+        loader.style.transform = 'translateY(-100%)';
+        
+        // Remove after transition completes
+        setTimeout(() => {
+          loader.remove();
+        }, 1500);
+      }
     }
-  }, [progress]);
+  }, [progress, total]);
 
   return (
-    <div className="loader-screen bg-black-100 w-screen h-dvh fixed top-0 left-0 z-[100]">
+    <div className="loader-screen bg-black-100 w-screen h-screen fixed top-0 left-0 z-[100] overflow-hidden">
       <div className="flex-center w-full h-full">
         <img src="/images/loader.gif" alt="loader" />
       </div>
