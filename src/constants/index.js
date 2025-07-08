@@ -203,6 +203,12 @@ const slides = [
     url:"https://sofi.health/",
     img: "/images/p1.png",
   },
+  {
+    id: 19,
+    title: "Aetna Resources for living",
+    url:"https://www.resourcesforliving.com/",
+    img: "/images/projects/aetna.png",
+  },
   
 ];
 
