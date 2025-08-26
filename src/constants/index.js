@@ -128,17 +128,35 @@ const slides = [
     url: "https://jupiterkenya.com/",
     img: "/images/projects/jupiter.png",
   },
+  // {
+  //   id: 2,
+  //   title: "Jasmina",
+  //   url:"https://jasminadenner.com/",
+  //   img: "/images/p2.png",
+  // },
   {
-    id: 2,
-    title: "Jasmina",
-    url:"https://jasminadenner.com/",
-    img: "/images/p2.png",
+    id:24,
+    title: "Brainwave Gen AI",
+    url: "https://radins-brainwave.netlify.app/",
+    img: "/images/projects/brainwaveAI.png",
+  },
+  {
+    id:20,
+    title: "Chatting, Video cconference  App",
+    url: "https://streamy-dlfz.onrender.com/login",
+    img: "/images/projects/chatting app.png",
   },
   {
     id: 8,
     title: "Phanox E-commerce Platform",
     url: "https://phanox.vercel.app/",
     img: "/images/projects/phanox.png",
+  },
+  {
+    id: 17,
+    title: "Wara Agri Tech",
+    url: "https://agri-tech-beta-bay.vercel.app/",
+    img: "/images/projects/waraAi.png",
   },
   {
     id: 15,
@@ -158,6 +176,33 @@ const slides = [
     url: "https://virtu-mart.vercel.app/",
     img: "/images/projects/cart.jpg",
   },
+  
+  {
+    id:21,
+    title: "Iphone Store",
+    url: "https://apple-iphone-center.vercel.app/",
+    img: "/images/projects/appleStore.png",
+  },
+  {
+    id:22,
+    title: "Animated soft Drinks",
+    url: "https://cola-drinks.vercel.app/",
+    img: "/images/projects/FizzDrinks.png",
+  },
+  {
+    id:23,
+    title: "Modern Banking",
+    url: "https://payment-gateway-tau-two.vercel.app/",
+    img: "/images/projects/ModernBanking.png",
+  },
+  {
+    id:24,
+    title: "My Fitness Coach",
+    url: "https://www.myfitcoach.app/en",
+    img: "/images/projects/myFitnesscouch.png",
+  },
+
+  
   {
     id: 12,
     title: "Tour Companion (Natours)",
@@ -165,12 +210,12 @@ const slides = [
     img: "/images/projects/nat.jpg",
   }, 
   
-  {
-    id: 18,
-    title: "OmniFoood",
-    url:"https://omnifood.dev/",
-    img: "/images/projects/omnifood.jpg",
-  },
+  // {
+  //   id: 18,
+  //   title: "OmniFoood",
+  //   url:"https://omnifood.dev/",
+  //   img: "/images/projects/omnifood.jpg",
+  // },
   {
     id: 17,
     title: "Ngamia Games",
@@ -197,12 +242,12 @@ const slides = [
     img: "/images/p5.png",
   },
  
-  {
-    id: 7,
-    title: "Sofi",
-    url:"https://sofi.health/",
-    img: "/images/p1.png",
-  },
+  // {
+  //   id: 7,
+  //   title: "Sofi",
+  //   url:"https://sofi.health/",
+  //   img: "/images/p1.png",
+  // },
   {
     id: 19,
     title: "Aetna Resources for living",
