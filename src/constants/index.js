@@ -259,31 +259,31 @@ const slides = [
 
 const testimonials = [
   {
-    name: "John Miller",
-    pos: "Founder of ModernEdge Solutions",
+    name: "Anthony DePaola",
+    pos: "CTO- Aetna Resources for living",
     review:
-      "Job Sidney turned our vision into a stunning, functional platform that our customers love. Their creativity and technical expertise truly set them apart.",
+      "Job Sidney turned our vision into a stunning, functional platform that our customers loved. His creativity and technical expertise truly set him apart. We as AETNA appreaciate his work and the impact he has made in our company with the systems and a mobile app he built.",
     imgPath: "/images/client1.png",
   },
   {
-    name: "Emily Carter",
-    pos: "UX Designer at PixelWorks Studio",
+    name: "Charles",
+    pos: "CEO at Mamlaka",
     review:
-      "Job Sidney consistently brings fresh ideas and innovative solutions. Their passion for creativity and attention to detail elevate every project.",
+      "Job Sidney consistently brings fresh ideas and innovative solutions. His passion for creativity and attention to detail elevate every project he is involved in. He was a great asset to our company and we are grateful for his work. The clients loved him.",
     imgPath: "/images/client2.png",
   },
   {
-    name: "Sarah Lopez",
-    pos: "Entrepreneur and Small Business Owner",
+    name: "Mr. Joseph Kigara",
+    pos: "General Manager at Jupiter Energy Kenya",
     review:
-      "Exceeded my expectations with a unique and beautifully designed product that works flawlessly. Their creative touch is outstanding.",
+      "Exceeded my expectations with a unique and beautifully designed product, Website and a sophisticated M-hub System that works flawlessly. This guy's creative reasoning, Ui design and implimentation touch is just outstanding!",
     imgPath: "/images/client3.png",
   },
   {
-    name: "David Chen",
-    pos: "Project Manager at CreativeSphere Agency",
+    name: "Steven Kakwiri",
+    pos: "Senior Engineer at Realware LLC",
     review:
-      "Blends technical skills with bold creativity to deliver exceptional results. They push boundaries and elevate every project they work on.",
+      "Blends technical skills with bold creativity and decisions to deliver exceptional results. He push boundaries and elevate every project he is involved in. Hes one best team player type of guy I have worked with in my career. I always ping him at anytime for any challenging task and he always delivers.",
     imgPath: "/images/client4.png",
   },
 ];
