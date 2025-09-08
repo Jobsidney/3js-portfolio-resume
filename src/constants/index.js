@@ -137,7 +137,7 @@ const slides = [
   {
     id:24,
     title: "Brainwave Gen AI",
-    url: "https://radins-brainwave.netlify.app/",
+    url: "https://app-brainwave.netlify.app/",
     img: "/images/projects/brainwaveAI.png",
   },
   {
