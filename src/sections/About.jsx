@@ -63,10 +63,10 @@ const About = () => {
               <div className="bg-black-300 rounded-2xl p-7 w-full h-full">
                 <div className="flex flex-col h-full justify-center gap-2">
                   <h1 className="gradient-title md:text-3xl text-2xl font-medium">
-                    Web Design & Dev
+                    Software Eng & Web Design
                   </h1>
                   <p className="md:text-2xl max-w-96">
-                    Cleanly Designed, Conversion-focused, and build for easy
+                    Cleanly Designed, fast, Conversion-focused, and build softwares and websites for easy
                     updates.
                   </p>
                 </div>
@@ -76,10 +76,10 @@ const About = () => {
               <div className="bg-black-300 rounded-2xl p-7 w-full h-full">
                 <div className="flex flex-col h-full justify-center gap-2">
                   <h1 className="gradient-title md:text-3xl text-2xl font-medium">
-                    UX UI Design
+                    AI/ML Dev
                   </h1>
                   <p className="md:text-2xl max-w-96">
-                    Seamless web or mobile app design to wow your users.
+                    Seamless AI/ML model design and development to wow your users.
                   </p>
                 </div>
               </div>
