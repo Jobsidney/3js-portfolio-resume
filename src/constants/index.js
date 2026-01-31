@@ -134,8 +134,6 @@ const slides = [
     url: "https://globaljet.aero/en",
     img: "/images/projects/globaljet.png",
   },
-
-
   // {
   //   id: 2,
   //   title: "Jasmina",
@@ -153,6 +151,12 @@ const slides = [
     title: "Iphone Store",
     url: "https://apple-iphone-center.vercel.app/",
     img: "/images/projects/appleStore.png",
+  },
+  {
+    id: 26,
+    title: "AI Agent",
+    url: "https://simple-ai-chat-interface-job.vercel.app/",
+    img: "/images/projects/ai-agent.png",
   },
   {
     id: 14,
