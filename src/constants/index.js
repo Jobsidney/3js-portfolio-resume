@@ -123,11 +123,19 @@ const iconsList = [
 
 const slides = [
   {
-    id: 14,
-    title: "Jupiter Energy & M-hub",
-    url: "https://jupiterkenya.com/",
-    img: "/images/projects/jupiter.png",
+    id: 8,
+    title: "Phanox E-commerce Platform",
+    url: "https://phanox.vercel.app/",
+    img: "/images/projects/phanox.png",
   },
+  {
+    id: 25,
+    title: "Global Jet",
+    url: "https://globaljet.aero/en",
+    img: "/images/projects/globaljet.png",
+  },
+
+
   // {
   //   id: 2,
   //   title: "Jasmina",
@@ -135,48 +143,11 @@ const slides = [
   //   img: "/images/p2.png",
   // },
   {
-    id:24,
-    title: "Brainwave Gen AI",
-    url: "https://app-brainwave.netlify.app/",
-    img: "/images/projects/brainwaveAI.png",
+    id:22,
+    title: "Animated soft Drinks",
+    url: "https://cola-drinks.vercel.app/",
+    img: "/images/projects/FizzDrinks.png",
   },
-  {
-    id:20,
-    title: "Chatting, Video cconference  App",
-    url: "https://streamy-dlfz.onrender.com/login",
-    img: "/images/projects/chatting app.png",
-  },
-  {
-    id: 8,
-    title: "Phanox E-commerce Platform",
-    url: "https://phanox.vercel.app/",
-    img: "/images/projects/phanox.png",
-  },
-  {
-    id: 17,
-    title: "Wara Agri Tech",
-    url: "https://agri-tech-beta-bay.vercel.app/",
-    img: "/images/projects/waraAi.png",
-  },
-  {
-    id: 15,
-    title: "Mam-Laka Africa",
-    url: "https://mam-laka.com/",
-    img: "/images/projects/mam-laka.png",
-  },
-  {
-    id: 16,
-    title: "Vuejs Kenya",
-    url: "https://vuejs-kenya.vercel.app/",
-    img: "/images/projects/vercel.png",
-  },
-  {
-    id: 11,
-    title: "Shop Cart",
-    url: "https://virtu-mart.vercel.app/",
-    img: "/images/projects/cart.jpg",
-  },
-  
   {
     id:21,
     title: "Iphone Store",
@@ -184,12 +155,18 @@ const slides = [
     img: "/images/projects/appleStore.png",
   },
   {
-    id:22,
-    title: "Animated soft Drinks",
-    url: "https://cola-drinks.vercel.app/",
-    img: "/images/projects/FizzDrinks.png",
+    id: 14,
+    title: "Jupiter Energy & M-hub",
+    url: "https://jupiterkenya.com/",
+    img: "/images/projects/jupiter.png",
   },
+
   {
+    id:24,
+    title: "Brainwave Gen AI",
+    url: "https://app-brainwave.netlify.app/",
+    img: "/images/projects/brainwaveAI.png",
+  },  {
     id:23,
     title: "Modern Banking",
     url: "https://payment-gateway-tau-two.vercel.app/",
@@ -201,6 +178,47 @@ const slides = [
     url: "https://www.myfitcoach.app/en",
     img: "/images/projects/myFitnesscouch.png",
   },
+  {
+    id: 15,
+    title: "Mam-Laka Africa",
+    url: "https://mam-laka.com/",
+    img: "/images/projects/mam-laka.png",
+  },
+  {
+    id: 17,
+    title: "Ngamia Games",
+    url: "https://ngamiagameslanding.vercel.app/",
+    img: "/images/projects/ngameagames.png",
+  },
+  {
+    id: 16,
+    title: "Vuejs Kenya",
+    url: "https://vuejs-kenya.vercel.app/",
+    img: "/images/projects/vercel.png",
+  },
+  {
+    id:20,
+    title: "Chatting, Video cconference  App",
+    url: "https://streamy-dlfz.onrender.com/login",
+    img: "/images/projects/chatting app.png",
+  },
+
+  {
+    id: 17,
+    title: "Wara Agri Tech",
+    url: "https://agri-tech-beta-bay.vercel.app/",
+    img: "/images/projects/waraAi.png",
+  },
+
+  {
+    id: 11,
+    title: "Shop Cart",
+    url: "https://virtu-mart.vercel.app/",
+    img: "/images/projects/cart.jpg",
+  },
+  
+
+
 
   
   {
@@ -216,12 +234,7 @@ const slides = [
   //   url:"https://omnifood.dev/",
   //   img: "/images/projects/omnifood.jpg",
   // },
-  {
-    id: 17,
-    title: "Ngamia Games",
-    url: "https://ngamiagameslanding.vercel.app/",
-    img: "/images/projects/ngameagames.png",
-  },
+
   {
     id: 9,
     title: "Analytics Dashboard",
