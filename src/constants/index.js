@@ -159,6 +159,12 @@ const slides = [
     img: "/images/projects/ai-agent.png",
   },
   {
+    id: 27,
+    title: "Phaser, PIXI, Ansimuz, 2D Game",
+    url: "https://space-craft-shoot-jmhecmtae-jobsidneys-projects.vercel.app/",
+    img: "/images/projects/phaser-2d-game.png",
+  },
+  {
     id: 14,
     title: "Jupiter Energy & M-hub",
     url: "https://jupiterkenya.com/",
